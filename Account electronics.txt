@@ -1,0 +1,29 @@
+ACCOUNTS:
+
+<username>
+<password>
+
+
+Admin:
+admin
+admin
+
+Cashier:
+test
+test
+
+Technician(James Bond)
+james
+james
+
+Technician(Jack Red)
+jack
+jack
+
+
+PROCESS:
+
+Add customer (email required) -> Add Job Order (repairs - admin) -> Receive Email -> View JO (Technician) -> Add remarks -> Pay JO (Cashier)
+
+
+Track JOB ORDER in login page. Click 'Track Job Order'
